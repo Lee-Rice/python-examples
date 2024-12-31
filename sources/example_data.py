@@ -8,6 +8,7 @@ name_list: list = [
     "Ed",
     "Kim",
 ]
+  
 animals: dict = {
     "Bill": "cat",
     "Sam": "Dog",
@@ -17,6 +18,7 @@ animals: dict = {
         "siblings": ["Tom", "Lauren", "Heather", "Alan"],
     },
 }
+
 plants: dict = {
     "Herb": {"Type": "Thyme", "Age": 2},
     "Sunny": {"Type": "Sunflower", "Age": 1},
